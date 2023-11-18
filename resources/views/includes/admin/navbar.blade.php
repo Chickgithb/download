@@ -2,7 +2,7 @@
     <!-- BEGIN HEADER INNER -->
     <div class="page-header-inner ">
       <!-- BEGIN LOGO -->
-      <div class="page-logo"> <a href="index.html"> <img class="logo-default" alt="logo" src="{{ asset('assets/images/logo.png') }}"> </a> </div>
+      <div class="page-logo"> <a href="index.html"> <img class="logo-default" alt="logo" src="{{ asset('assets/admin/images/logo.png') }}"> </a> </div>
       <!-- END LOGO -->
       <div class="library-menu"> <span class="one">-</span> <span class="two">-</span> <span class="three">-</span> </div>
       <!-- BEGIN TOP NAVIGATION MENU -->
@@ -11,21 +11,21 @@
           <li class="dropdown"> <a href="#" data-toggle="dropdown" class="dropdown-toggle count-info" > <i class="fa fa-envelope"></i> <span class="badge badge-danger ">6</span> </a>
             <ul class="dropdown-menu dropdown-messages menuBig">
               <li>
-                <div class="dropdown-messages-box"> <a class="pull-left" href="profile.html"> <img src="{{ asset('assets/images/teem/a7.jpg') }}" class="img-circle" alt="image"> </a>
+                <div class="dropdown-messages-box"> <a class="pull-left" href="profile.html"> <img src="{{ asset('assets/admin/images/teem/a7.jpg') }}" class="img-circle" alt="image"> </a>
                   <div class="media-body"> <small class="pull-right">46h ago</small> <strong>Mike Loreipsum</strong> started following <strong>Olivia Wenscombe</strong>. <br>
                     <small class="text-muted">3 days ago at 7:58 pm - 10.06.2014</small> </div>
                 </div>
               </li>
               <li class="divider"></li>
               <li>
-                <div class="dropdown-messages-box"> <a class="pull-left" href="profile.html"> <img src="{{ asset('assets/images/teem/a4.jpg') }}" class="img-circle" alt="image"> </a>
+                <div class="dropdown-messages-box"> <a class="pull-left" href="profile.html"> <img src="{{ asset('assets/admin/images/teem/a4.jpg') }}" class="img-circle" alt="image"> </a>
                   <div class="media-body "> <small class="pull-right text-navy">5h ago</small> <strong>Alex Smith </strong> started following <strong>Olivia Wenscombe</strong>. <br>
                     <small class="text-muted">Yesterday 1:21 pm - 11.06.2014</small> </div>
                 </div>
               </li>
               <li class="divider"></li>
               <li>
-                <div class="dropdown-messages-box"> <a class="pull-left" href="profile.html"> <img src="{{ asset('assets/images/teem/a3.jpg') }}" class="img-circle" alt="image"> </a>
+                <div class="dropdown-messages-box"> <a class="pull-left" href="profile.html"> <img src="{{ asset('assets/admin/images/teem/a3.jpg') }}" class="img-circle" alt="image"> </a>
                   <div class="media-body "> <small class="pull-right">23h ago</small> <strong>Olivia Wenscombe</strong> love <strong>Sophie </strong>. <br>
                     <small class="text-muted">2 days ago at 2:30 am - 11.06.2014</small> </div>
                 </div>

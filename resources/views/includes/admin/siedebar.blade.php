@@ -3,7 +3,7 @@
       <ul class="page-sidebar-menu  page-header-fixed ">
         <li class="sidebar-search-wrapper">
           <!-- START RESPONSIVE SEARCH FORM -->
-          <form class="sidebar-search  " action="http://adminbag-v1.3.bittyfox.com/default/green-blue/search_results.html" method="POST">
+          <form class="sidebar-search  " action="" method="POST">
             <a href="javascript:;" class="remove"> <i class="icon-close"></i> </a>
             <div class="input-group">
               <input type="text" class="form-control" placeholder="Search...">
